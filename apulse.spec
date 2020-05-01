@@ -10,7 +10,7 @@ URL:      https://github.com/i-rinat/apulse
 Source:		https://github.com/i-rinat/apulse/archive/v%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires:	cmake
-BuildRequires:	glib2-devel
+BuildRequires:	pkgconfig(glib-2.0)
 BuildRequires:	pkgconfig(alsa)
 
 %description
