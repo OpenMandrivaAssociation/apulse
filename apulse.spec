@@ -44,3 +44,4 @@ ln -sf libpulsecommon-5.0.so \
 %doc LICENSE.MIT README*
 %{_bindir}/*
 %{_libdir}/*
+%{_mandir}/man1/apulse.1.*
