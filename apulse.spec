@@ -2,7 +2,7 @@
 
 Name:     apulse
 Version:	0.1.13
-Release:	1
+Release:	2
 Summary:	PulseAudio emulation for ALSA
 License:	MIT and LGPL-2.1+
 Group:		System/Libraries
