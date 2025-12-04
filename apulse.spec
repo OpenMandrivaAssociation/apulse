@@ -1,8 +1,8 @@
 %define __provides_exclude_from ^%{_libdir}/apulse/.*.so.*$
 
 Name:     apulse
-Version:	0.1.13
-Release:	2
+Version:	0.1.14
+Release:	1
 Summary:	PulseAudio emulation for ALSA
 License:	MIT and LGPL-2.1+
 Group:		System/Libraries
